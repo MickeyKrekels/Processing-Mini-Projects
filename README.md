@@ -1,7 +1,5 @@
 # P5.js-Mini-Projects
-
-processing -
-
+processing
 During the lessons I mainly focused on mastering the programming language Java.
 Because the processing works with Java and is often used with algorithms, this seemed an educational option to me.
 
